@@ -3,9 +3,8 @@
 #include <stdio.h>
 /**
 * main - print if the number is positive, zero, or negative
-*
-* Description: using the main function
-* "programming is positive_zero_or_negative 
+* description: using the main function
+* this grogram prints "programming is positive_zero_or_negative 
 * Return: 0
 */
 int main(void)
