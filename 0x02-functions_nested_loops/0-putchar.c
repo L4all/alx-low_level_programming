@@ -8,8 +8,6 @@
 */
 int main(void)
 {
-char _putchar;
-char _putchar = _putchar
-putchar("%d\n", _putchar);
+putchar("_putchar\n");
 return (0);
 }
