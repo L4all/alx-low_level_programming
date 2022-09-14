@@ -1,10 +1,17 @@
 #include "main.h"
 /**
-* print _alphabet
-* Return: Always 0.
+* print_alphabet - entry point
+*
+* Description: Prints the alphabet with _putchar
+*
+* Return: void
 */
-int main(void)
+void print_alphabet(void)
 {
-	    print_alphabet();
-	return (0);
+	char c;
+	for (c = 'a'; c <= 'z'; c++)
+	{
+		_putchar(c);
+	}
+	_putchar('\n');
 }
