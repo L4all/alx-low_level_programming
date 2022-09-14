@@ -7,7 +7,7 @@
 * Return: 0
 */
 int main(void)
-{	
+{
 putchar('_');
 putchar('p');
 putchar('u');
