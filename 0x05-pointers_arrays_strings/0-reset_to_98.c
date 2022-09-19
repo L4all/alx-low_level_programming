@@ -11,6 +11,7 @@ int main(void)
 char n;
 
 n = 98;
-putchar("%p\n", &n);
+putchar("%p", &n);
+putchar("\n");
 return (0);
 }
