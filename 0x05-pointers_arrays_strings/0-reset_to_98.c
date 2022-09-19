@@ -8,9 +8,9 @@
 */
 int main(void)
 {
-char n;
-
-n = 98;
+int n = 98;
+int *p;
+p = &n;
 putchar("%p", &n);
 putchar("\n");
 return (0);
