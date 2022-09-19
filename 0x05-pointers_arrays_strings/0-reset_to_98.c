@@ -8,11 +8,9 @@
 */
 int main(void)
 {
-int n;
+char n;
 
 n = 98;
-putchar("%d\n", n);
-reset_to_98(&n);
-putchar("n=%d\n", n);
+putchar("%p\n", &n);
 return (0);
 }
