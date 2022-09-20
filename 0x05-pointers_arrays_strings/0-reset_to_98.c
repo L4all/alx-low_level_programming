@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-* reset_to_98 IS THE FUNCTION THAT WILL TAKE AN INTEGER
+* main reset_to_98 IS THE FUNCTION THAT WILL TAKE AN INTEGER
 * @n: This is the parameter that will inturn be the arguement
 * Return: void on success
 */
