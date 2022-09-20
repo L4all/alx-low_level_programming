@@ -4,7 +4,6 @@
 #include <math.h>
 
 /**
-*
 * main - print password.
 *
 * Return: 0.
