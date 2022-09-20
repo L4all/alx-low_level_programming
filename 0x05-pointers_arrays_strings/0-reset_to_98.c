@@ -6,12 +6,7 @@
 *
 * Return: Always 0.
 */
-int main(void)
+void reset_to_98(int *n)
 {
-int n = 98;
-int *p;
-p = &n;
-putchar("%p", &n);
-putchar("\n");
-return (0);
+	*n = 98;
 }
