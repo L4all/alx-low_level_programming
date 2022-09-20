@@ -4,8 +4,8 @@
 /**
 * _puts - prints a string followed by a new line..
 *
-* @str: the string to pprint.
-* 
+* @str: the string to print.
+*
 * Return: void
 */
 void _puts(char *str)
