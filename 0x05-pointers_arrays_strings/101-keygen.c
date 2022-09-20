@@ -21,7 +21,7 @@ int main(void)
 	{
 		random = rand() % 136;
 		password[i] = random;
-		asciii -= random;
+		ascii -= random;
 		i++;
 	}
 	if (ascii > 0)
