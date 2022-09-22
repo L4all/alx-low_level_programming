@@ -2,7 +2,7 @@
 
 /**
 * _strcpy - C function that copies a string, including the
-* terminating null byte, using at most an inputted number of bbytes
+* terminating null byte, using at most an inputted number of bytes
 * if the length of the source string is less than maximum byte number,
 * the remainder of the destination string filled with null bytes.
 * Works identically to the standard likrary function 'strncpy'.
