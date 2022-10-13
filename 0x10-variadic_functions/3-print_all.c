@@ -106,7 +106,7 @@ j = 0;
 */
 while (j < 4 && (format[i] != *(funcs[j].symbol)))
 j++;
-																if (j < 4)
+if (j < 4)
 {
 printf("%s", separator);
 funcs[j].print_func(ap);
